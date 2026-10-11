@@ -1,0 +1,100 @@
+Evaluation Metrics for Test Set
+Model: models\best_multizoo_model.pth
+Data: data/MultiZoo/test
+
+                precision    recall  f1-score   support
+
+      antelope       1.00      1.00      1.00         6
+        badger       0.86      1.00      0.92         6
+           bat       0.86      1.00      0.92         6
+          bear       1.00      0.83      0.91         6
+           bee       1.00      1.00      1.00         6
+        beetle       0.75      0.50      0.60         6
+         bison       0.86      1.00      0.92         6
+          boar       1.00      0.83      0.91         6
+     butterfly       1.00      0.83      0.91         6
+           cat       1.00      1.00      1.00         6
+   caterpillar       1.00      0.50      0.67         6
+    chimpanzee       1.00      1.00      1.00         6
+     cockroach       1.00      1.00      1.00         6
+           cow       1.00      1.00      1.00         6
+        coyote       0.75      1.00      0.86         6
+          crab       1.00      1.00      1.00         6
+          crow       1.00      1.00      1.00         6
+          deer       0.86      1.00      0.92         6
+           dog       1.00      1.00      1.00         6
+       dolphin       1.00      1.00      1.00         6
+        donkey       0.83      0.83      0.83         6
+     dragonfly       0.86      1.00      0.92         6
+          duck       1.00      0.83      0.91         6
+         eagle       1.00      1.00      1.00         6
+      elephant       1.00      1.00      1.00         6
+      flamingo       1.00      1.00      1.00         6
+           fly       1.00      0.83      0.91         6
+           fox       1.00      0.83      0.91         6
+          goat       0.50      0.83      0.62         6
+      goldfish       1.00      1.00      1.00         6
+         goose       0.75      1.00      0.86         6
+       gorilla       1.00      1.00      1.00         6
+   grasshopper       1.00      0.83      0.91         6
+       hamster       1.00      1.00      1.00         6
+          hare       1.00      1.00      1.00         6
+      hedgehog       0.86      1.00      0.92         6
+  hippopotamus       1.00      0.83      0.91         6
+      hornbill       1.00      1.00      1.00         6
+         horse       0.75      1.00      0.86         6
+   hummingbird       1.00      1.00      1.00         6
+         hyena       0.86      1.00      0.92         6
+     jellyfish       1.00      1.00      1.00         6
+      kangaroo       1.00      0.67      0.80         6
+         koala       1.00      1.00      1.00         6
+      ladybugs       1.00      1.00      1.00         6
+       leopard       1.00      0.83      0.91         6
+          lion       1.00      1.00      1.00         6
+        lizard       1.00      0.67      0.80         6
+       lobster       1.00      0.83      0.91         6
+      mosquito       1.00      1.00      1.00         6
+          moth       0.67      1.00      0.80         6
+         mouse       1.00      0.50      0.67         6
+       octopus       1.00      0.83      0.91         6
+         okapi       0.86      1.00      0.92         6
+     orangutan       1.00      1.00      1.00         6
+         otter       0.75      1.00      0.86         6
+           owl       1.00      1.00      1.00         6
+            ox       1.00      0.50      0.67         6
+        oyster       1.00      1.00      1.00         6
+         panda       1.00      1.00      1.00         6
+        parrot       1.00      0.83      0.91         6
+pelecaniformes       1.00      1.00      1.00         6
+       penguin       1.00      1.00      1.00         6
+           pig       1.00      0.67      0.80         6
+        pigeon       1.00      1.00      1.00         6
+     porcupine       1.00      0.83      0.91         6
+        possum       1.00      1.00      1.00         6
+       raccoon       1.00      0.67      0.80         6
+           rat       0.67      1.00      0.80         6
+      reindeer       1.00      1.00      1.00         6
+    rhinoceros       0.75      1.00      0.86         6
+     sandpiper       1.00      1.00      1.00         6
+      seahorse       1.00      0.83      0.91         6
+          seal       1.00      1.00      1.00         6
+         shark       1.00      1.00      1.00         6
+         sheep       0.86      1.00      0.92         6
+         snake       0.55      1.00      0.71         6
+       sparrow       1.00      1.00      1.00         6
+         squid       0.86      1.00      0.92         6
+      squirrel       1.00      0.83      0.91         6
+      starfish       0.75      1.00      0.86         6
+          swan       1.00      0.83      0.91         6
+         tiger       1.00      1.00      1.00         6
+        turkey       1.00      1.00      1.00         6
+        turtle       1.00      1.00      1.00         6
+         whale       1.00      1.00      1.00         6
+          wolf       1.00      0.67      0.80         6
+        wombat       1.00      1.00      1.00         6
+    woodpecker       1.00      1.00      1.00         6
+         zebra       1.00      1.00      1.00         6
+
+      accuracy                           0.93       540
+     macro avg       0.94      0.93      0.93       540
+  weighted avg       0.94      0.93      0.93       540

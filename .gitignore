@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Sanal ortam
+venv/
+.venv/
+
+# Veri seti ve büyük model dosyaları (GitHub 100 MB sınırı)
+data/
+models/*.pth
+models/*.pt
+
+# IDE / sistem
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+desktop.ini
